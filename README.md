@@ -1,6 +1,6 @@
 # Electronic Store App
 
-![Cover Image](Cover.png)
+![Cover Image](cover.png)
 
 ## Overview
 
