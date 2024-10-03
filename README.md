@@ -1,5 +1,7 @@
 # Electronic Store App
 
+![Cover Image](Cover.png)
+
 ## Overview
 
 The Electronic Store App is a responsive web application that provides a user-friendly shopping experience for various electronic products, including smartphones and laptops. Built with HTML and CSS, the app allows users to effortlessly browse, filter, and purchase their favorite electronics.
